@@ -25,6 +25,7 @@ In order work properly you need to enable "permit access for applications" and "
 * python3.7 or newer
 * influxdb (InfluxDB 1)
 * influxdb_client (InfluxDB 2)
+* xmltodict
 * fritzconnection
 * pytz
 
